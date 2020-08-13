@@ -1,7 +1,11 @@
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
-</p>### Hi there, I'm Bruno - aka zemchuks (Website still in construction...)  👏 
+</p>
+
+---
+
+### Hi there, I'm Bruno - aka zemchuks (Website still in construction...)  👏 
 
 ## I'm a Developer, and student
 - 👷 I'm currently working on a full stack Application
