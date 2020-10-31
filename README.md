@@ -6,6 +6,8 @@
 <img width='100px' src='img/reactjs.png'></img>
 <img width='100px' src='img/javascript.png'></img>
 <img width='100px' src='img/materialize.png'></img>
+<img width='100px' src='img/bootstrap.png'></img>
+<img width='100px' src='img/mongo.png'></img>
 
 
 
