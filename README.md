@@ -3,6 +3,15 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
 </p>
 
+<img width='100px' src='img/node.png'></img>
+<img width='100px' src='img/html.png'></img>
+<img width='100px' src='img/css3.png'></img>
+<img width='100px' src='img/reactjs.png'></img>
+<img width='100px' src='img/javascript.png'></img>
+<img width='100px' src='img/materialize.png'></img>
+
+
+
 ---
 
 ### Hi there, I'm Bruno - aka zemchuks (Website still in construction...)  👏 
