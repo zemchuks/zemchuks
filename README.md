@@ -15,11 +15,11 @@
 
 ### Hi there, I'm Bruno - aka zemchuks (Website still in construction...)  👏 
 
-## I'm a Developer, and student
+## I'm a Developer, and/was a student
 - 👷 I'm currently working on a full stack Application
 - 👩‍💻 I'm currently Learning everything 🤗
 - 👯‍♀️ I'm looking to connect with other learners and contribute to open source
-- ⚽ 2020 Goals: Contribute to open source projects, get a developer job
+- ⚽ 2021 Goals: Contribute to open source projects, get a developer job
 - ⚡Fun fact: I love to act and sing, and I'm a movie addict
 
 ### Connect with me:
