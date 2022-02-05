@@ -13,7 +13,6 @@
 
 ---
 
-### Hi there, I'm Bruno - aka zemchuks (Website still in construction...)  👏 
 
 ## I'm a Developer, and/was a student
 - 👷 I'm currently working on a full stack Application
@@ -25,9 +24,6 @@
 ### Connect with me:
 [<img align="left" alt="zemchuks | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="zemchuks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="zemchuks | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="zemchuks | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
 <br />
 
 ### Languages and Tools:
@@ -52,7 +48,6 @@
 
 ---
 [githubRepos]: https://github.com/zemchuks
-[twitter]: https://twitter.com/bruno_austane
-[instagram]: https://instagram.com/bruno_austine
-[linkedin]: https://www.linkedin.com/in/bruno-ezemba-0bb302170/
-[facebook]: https://facebook.com/brunoEzemba.austin
+<!-- [twitter]: https://twitter.com/bruno_austane -->
+
+[linkedin]: https://www.linkedin.com/in/benson-madueke
