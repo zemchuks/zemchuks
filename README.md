@@ -2,10 +2,10 @@
 
 <img width='100px' src='img/node.png'></img>
 <img width='100px' src='img/html.png'></img>
-<img width='100px' src='img/css3.png'></img>
+<img width='100px' src='img/Tailwind_CSS_Logo.svg.png'></img>
 <img width='100px' src='img/reactjs.png'></img>
 <img width='100px' src='img/javascript.png'></img>
-<img width='100px' src='img/materialize.png'></img>
+<img width='100px' src='img/graphql-logo-png-transparent.png'></img>
 <img width='100px' src='img/bootstrap.png'></img>
 <img width='100px' src='img/mongo.png'></img>
 
@@ -14,18 +14,17 @@
 ---
 
 
-## I'm a Developer, and/was a student
-- 👷 I'm currently working on a full stack Application
-- 👩‍💻 I'm currently Learning everything 🤗
+## I'm a Developer,
+- 👷 I'm currently Learning and building A full stack project with Graphql and TailwindCSS
+- 👩‍💻 I'm currently Learning React-Native 🤗
 - 👯‍♀️ I'm looking to connect with other learners and contribute to open source
-- ⚽ 2021 Goals: Contribute to open source projects, get a developer job
+- ⚽ 2023 Goals: To work with an international company and
 - ⚡Fun fact: I love to act and sing, and I'm a movie addict
 
 ### Connect with me:
 [<img align="left" alt="zemchuks | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="zemchuks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][githubRepos]
@@ -50,4 +49,4 @@
 [githubRepos]: https://github.com/zemchuks
 <!-- [twitter]: https://twitter.com/bruno_austane -->
 
-[linkedin]: https://www.linkedin.com/in/benson-madueke
+[linkedin]: https://www.linkedin.com/in/bruno-ezemba
