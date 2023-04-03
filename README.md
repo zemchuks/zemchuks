@@ -16,6 +16,7 @@
 
 ## I'm a Developer,
 - 👷 I'm currently Learning and building A full stack project with Graphql and TailwindCSS
+- Learning Next.js
 - 👩‍💻 I'm currently Learning React-Native 🤗
 - 👯‍♀️ I'm looking to connect with other learners and contribute to open source
 - ⚽ 2023 Goals: To work with an international company and
