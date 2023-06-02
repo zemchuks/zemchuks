@@ -20,7 +20,7 @@
 - 👩‍💻 I'm currently Learning React-Native 🤗
 - 👯‍♀️ I'm looking to connect with other learners and contribute to open source
 - ⚽ 2023 Goals: To work with an international company and
-- ⚡Fun fact: I love to act and sing, and Ilove going to the movies
+- ⚡Fun fact: I love to act and sing, and I love going to the movies
 
 ### Connect with me:
 [<img align="left" alt="zemchuks | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
