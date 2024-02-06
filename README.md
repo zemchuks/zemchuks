@@ -19,7 +19,7 @@
 - Learning Next.js
 - 👩‍💻 I'm currently Learning React-Native 🤗
 - 👯‍♀️ I'm looking to connect with other learners and contribute to open source
-- ⚽ 2023 Goals: To work with an international company and
+- ⚽ 2024 Goals: To work in a notable tech company and contribute to more open source
 - ⚡Fun fact: I love to act and sing, and I love going to the movies
 
 ### Connect with me:
